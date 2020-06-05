@@ -1,0 +1,3 @@
+# Extrinsic Values
+- Wellbeing
+- Knowledge

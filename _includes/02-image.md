@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![github image](https://camo.githubusercontent.com/14628da9e3f076db3d0f3e3916e47dd707493ed4/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f50726f666573736f72746f6361745f76322e706e67)
